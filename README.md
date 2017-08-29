@@ -1,6 +1,6 @@
 # CrystalCollector
 
-<h3> Crystal Collector is a fun and interactive game for web browsers. The aplication dynamically updates HTML pages with the jQuery library.</h3>
+<h3> Crystal Collector is a fun and interactive game for web browsers. The application dynamically updates HTML pages with the jQuery library.</h3>
 
 [![Screen_Shot_2017-08-29_at_5.51.27_PM.png](https://s26.postimg.org/o1guy2y6x/Screen_Shot_2017-08-29_at_5.51.27_PM.png)](https://postimg.org/image/8fzje4m8l/)
 
